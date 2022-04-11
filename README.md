@@ -8,8 +8,6 @@
 [![Gmail: claragadelho](https://img.shields.io/badge/Gmail-Clara%20Gadelho-red)](mailto:claragadelho@gmail.com)
 
 
----
-
 I am a 21-year-old Computer Science student, currently on the 1st year of my Master's Degree. <br>
 I'm a dedicated and enthusiastic person, with a great passion fortravelling, reading and playing music 😊 <br>
 My study fields of choice are Data Science, Machine Learning and Software Engeneering.
