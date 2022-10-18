@@ -1,6 +1,6 @@
 # Hey there, I'm Clara! 👋
 
->  💻 Informatics and Computing Engeneering Student [@FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)
+>  💻 Informatics and Computing Engineering Student [@FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)
 
 
 [![Linkedin: claramoreiragadelho](https://img.shields.io/badge/-Clara%20Moreira%20Gadelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claramoreiragadelho/)](https://www.linkedin.com/in/claramoreiragadelho/)
@@ -8,7 +8,7 @@
 [![Gmail: claragadelho](https://img.shields.io/badge/Gmail-Clara%20Gadelho-red)](mailto:claragadelho@gmail.com)
 
 
-I am a 21-year-old Computer Science student, currently on the 1st year of my Master's Degree. <br>
+I am a 22-year-old Computer Science student, currently on the 2nd year of my Master's Degree. <br>
 I'm a dedicated and enthusiastic person, with a great passion for travelling, reading and playing music 😊 <br>
 My study fields of choice are Data Science, Machine Learning and Software Engeneering.
 
